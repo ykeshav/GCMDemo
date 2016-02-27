@@ -1,0 +1,5 @@
+<resources>
+  <string name="app_name">MyGCM</string>
+  <string name="google_app_id">227235078511</string>
+  <string name="notification_number">1337</string>
+</resources>
